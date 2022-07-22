@@ -1,2 +1,4 @@
 first text file.
+this is a different change.
+this is longer change.
 this is an edit.
